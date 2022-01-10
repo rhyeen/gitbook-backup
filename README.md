@@ -27,7 +27,9 @@ Instead, consider agile development to be a set of guiding principles that will 
 * learning through qualitative and quantitative data,
 * and pivoting with agility when needed.
 
-_TL;DR: agile development is **not** to improve productivity or accountability, but rather to improve the process of software implementation._
+#### Benefits for remote work
+
+This is especially important for modern tech business operations in which the workforce is either fully/partially remote, or in which teams or departments are in separate offices.  Many of the benefits of working physically adjacent to your fellow coworkers are no longer applicable.  Communication suffers over distances, no matter how many Zoom calls or Slack conversations you have.  Business need to compensate with effective cooperative practices, such as agile development.&#x20;
 {% endhint %}
 
 ## What we will cover
