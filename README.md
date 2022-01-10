@@ -38,6 +38,9 @@ _TL;DR: agile development is **not** to improve productivity or accountability, 
 * Story Points
 * Velocity
 
+{% hint style="info" %}
 ### What we will NOT cover
 
 This article is specifically focused on the aspects of agile development regarding business planning and practices rather than software engineering practices.  Topics such as Test Driven Development (TDD), the SOLID Principles, Continuous Integration and Deployment (CI/CD), Pair Programming, Code Review, Acceptance Tests, etc. are topics worthy of their own research.  For a great grasp of the "why" these topics are just as important, I'd highly recommend picking up [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868).
+{% endhint %}
+
