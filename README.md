@@ -40,6 +40,8 @@ This is especially important for modern tech business operations, in which the w
 ### What we will NOT cover
 
 This article is specifically focused on the aspects of agile development regarding business planning rather than software engineering practices.  Topics such as Test Driven Development (TDD), the SOLID Principles, Continuous Integration and Deployment (CI/CD), Pair Programming, Code Review, Acceptance Tests, etc. are topics worthy of their own research, but way beyond the scope of a single article.  For an excellent grasp regarding "why" these topics are important, I'd highly recommend picking up [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868).
+
+There's also certain parts of Scrum or agile development that I think are either not worth talking about or just outside of the scope of this article.  I have aggregated a lot of those in my [closing thoughts](readme/closing-thoughts.md#topics-i-ignored).
 {% endhint %}
 
 So let's dive into our first topic: scoping and utilizing an iteration/sprint.
