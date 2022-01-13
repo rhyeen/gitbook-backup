@@ -35,8 +35,6 @@ For mostly or fully physically adjacent teams, I recommend a 2-week iteration as
 
 Velocity
 
-* Different engineers have different velocities.  Low velocities can be because engineers are working on more complex tasks generally than their peers and  not correctly estimating, over confidence, bad scoping and planning of requirements, actually not working, [glue work](https://noidea.dog/glue).
-
 Stories/Milestones
 
 * Backlog
