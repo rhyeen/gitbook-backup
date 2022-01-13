@@ -35,19 +35,18 @@ For mostly or fully physically adjacent teams, I recommend a 2-week iteration as
 
 Velocity
 
+* Different engineers have different velocities.  Low velocities can be because engineers are working on more complex tasks generally than their peers and  not correctly estimating, over confidence, bad scoping and planning of requirements, actually not working, [glue work](https://noidea.dog/glue).
+
 Stories/Milestones
 
-{% hint style="info" %}
-### What about burn-down charts?
 
-A burn-down chart is essentially a way to visually see the progress you make on a milestone with the goal of eventually "burning down" enough of the work that there is nothing left to do and the task is complete.
-
-I've never seen a burn-down chart actually help anyone.  Sure, they're pretty to look at and give a sense of accomplishment to the engineers and control to the product managers, but their benefit is superficial and usually outweighed by their inaccuracy as you continue to add more wood (tasks) to the fire.
-
-I do not recommend the added busy work.
-{% endhint %}
 
 \
 Story Points
 
+* [https://en.wikipedia.org/wiki/Planning\_poker](https://en.wikipedia.org/wiki/Planning\_poker)
 * [https://www.linkedin.com/posts/jimapodaca\_scrum-estimating-userstories-activity-6884171038658228224-IXA0](https://www.linkedin.com/posts/jimapodaca\_scrum-estimating-userstories-activity-6884171038658228224-IXA0)
+* [https://www.linkedin.com/posts/jimapodaca\_scrum-estimating-userstories-activity-6886947745391804417-oifD](https://www.linkedin.com/posts/jimapodaca\_scrum-estimating-userstories-activity-6886947745391804417-oifD)
+* Shirt Sizes
+* Hours vs Dev Days vs Points
+
