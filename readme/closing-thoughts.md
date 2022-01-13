@@ -58,7 +58,7 @@ Also see: [https://www.overmindlabs.com/cube/demo](https://www.overmindlabs.com/
 
 <details>
 
-<summary>Scrum Master</summary>
+<summary>Scrum Master, Iteration Manager, Task Manager</summary>
 
 
 
