@@ -7,6 +7,12 @@ description: >-
 
 # Practical Agile Development
 
+{% hint style="info" %}
+#### Here be dragons
+
+Agile development is a highly debated and discussed topic.  Everyone has different opinions about it and I'm no exception.  That being said, I've tried to keep unessential comments within sidebars like these.  Read if you're interested, ignore if you're not.
+{% endhint %}
+
 Agile Software Development is synonymous with Software Development. I was introduced to the methodology way back in school and have used it in every job since then. Every software engineer in the industry is familiar with the agile methodology, and although there are many competing methodologies ([Waterfall, Lean, etc.](https://en.wikipedia.org/wiki/List\_of\_software\_development\_philosophies)), most businesses run processes derived from "Agile", whether that's scrum, iterations (sprints), story points, velocity, burn down, and so on.
 
 Despite how universally familiar this industry is with agile development, and despite how many high-level resources we have on the topic (just Google, "Agile Software Development"), I have yet to find a succinct resource that distills an effective solution for applying the agile methodology into planning and operations. In this article, I intend to resolve that by providing a comprehensive guide on how I have successfully applied agile development with my software teams.
@@ -36,10 +42,12 @@ This is especially important for modern tech business operations, in which the w
 
 Agile development is a huge topic.  I'm going to cover what I believe is essential for your engineering team to be able to plan and work together on business-level tasks.  In technical terms, we'll be covering iteration planning and meetings, story points and milestones, velocity, kanban boards, and other sprinkled topics in between it all.
 
-{% hint style="info" %}
 ### What we will NOT cover
 
 This article is specifically focused on the aspects of agile development regarding business planning rather than software engineering practices.  Topics such as Test Driven Development (TDD), the SOLID Principles, Continuous Integration and Deployment (CI/CD), Pair Programming, Code Review, Acceptance Tests, etc. are topics worthy of their own research, but way beyond the scope of a single article.  For an excellent grasp regarding "why" these topics are important, I'd highly recommend picking up [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868).
+
+{% hint style="info" %}
+#### Other Agile and Scrum topics not covered
 
 There's also certain parts of agile development that I think are either not worth talking about or just outside of the scope of this article.  I have aggregated a lot of those in my [closing thoughts](readme/closing-thoughts.md#topics-i-ignored).  Most are specific to Scrum, which I personally believe has bastardized agile development and also suffers from circular self-entitled definitions (e.g. Scrum Meeting vs Stand up, Scrum Board vs Kanban board, etc.).
 {% endhint %}
