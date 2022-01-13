@@ -2,14 +2,17 @@
 
 ### Deadlines
 
-* Work harder: Aka, put in more hours.
-* Add resources: Aka, pulling additional engineers into a project.  which is [usually a bad idea](https://en.wikipedia.org/wiki/The\_Mythical\_Man-Month)
+#### Work harder
 
+Aka, put in more hours.
 
+{% embed url="https://www.entrepreneur.com/article/281361" %}
 
 {% embed url="https://www.entrepreneur.com/article/288359" %}
 
-{% embed url="https://www.entrepreneur.com/article/281361" %}
+#### Add resources
+
+Aka, pulling additional engineers into a project.  which is [usually a bad idea](https://en.wikipedia.org/wiki/The\_Mythical\_Man-Month)
 
 ### Software Engineering Best Practices
 
