@@ -18,7 +18,7 @@ Let's dive into defining an iteration and its different structures.  To keep our
 
 Jira is a great tool for turning the agile development into a bureaucratic nightmare.  Don't get me wrong; it's definitely the most common and powerful project management tool out there.  But with great power comes great amount-of-superficial-features-that-management-abuses-turning-the-benefits-of-agile-development-into-a-redtaped-gridlock-of-omg-I-just-want-to-create-a-#!$\&ing-ticket!.
 
-More seriously, there are a ton of tools out there that can be used.  I recommend any that are specifically built to benefit your engineers rather than management or other business units.  We chose GitHub Projects specifically because only engineers have GitHub accounts.
+More seriously, there are a ton of tools out there that can be used.  I recommend any that are specifically built to benefit your engineers rather than management or other business units.  If a tool has features (dashboards, reports, metrics, etc.) that can be used to shame an engineer into working harder, don't use that tool.  We chose GitHub Projects specifically because only engineers have GitHub accounts.
 {% endhint %}
 
 ## Defining your iteration
