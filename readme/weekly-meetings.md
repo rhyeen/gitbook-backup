@@ -2,7 +2,7 @@
 
 ## Standup
 
-(Scrum Meeting)
+
 
 {% hint style="info" %}
 ### Does it have to be daily?
