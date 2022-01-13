@@ -14,7 +14,7 @@ Although [some may argue](https://rhyeen.gitbook.io/techops/v/time-management/#w
 Let's dive into defining an iteration and its different structures.  To keep our examples practical, we'll be demonstrating these principles using [Trello](https://trello.com) and [GitHub Projects (beta)](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects).  We chose Trello as an example because it's no-frills clean, simple, and free.  We chose GitHub Projects as an example because that's what we use at [PocketRN](https://pocketrn.com).
 
 {% hint style="info" %}
-### What about Jira?  Or {{ insert of tool here}}?
+#### What about Jira?  Or {{ insert of tool here}}?
 
 Jira is a great tool for turning the agile development into a bureaucratic nightmare.  Don't get me wrong; it's definitely the most common and powerful project management tool out there.  But with great power comes great amount-of-superficial-features-that-management-abuses-turning-the-benefits-of-agile-development-into-a-redtaped-gridlock-of-omg-I-just-want-to-create-a-#!$\&ing-ticket!.
 
@@ -26,7 +26,7 @@ More seriously, there are a ton of tools out there that can be used.  I recommen
 ### Establishing meetings
 
 {% hint style="info" %}
-### Should my team have a 1 or 2-week iteration?
+#### Should my team have a 1 or 2-week iteration?
 
 I've done both.  For partially or fully remote teams, I highly recommend 1-week iterations with minimal other [weekly meetings](weekly-meetings.md).  I've found that team members may often grind against a problem unnecessarily longer when working remotely, because it takes more effort to validate with another teammate when they are not sitting next to you.
 
