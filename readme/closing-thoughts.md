@@ -14,7 +14,9 @@ Aka, put in more hours.
 
 Aka, pulling additional engineers into a project.  which is [usually a bad idea](https://en.wikipedia.org/wiki/The\_Mythical\_Man-Month).
 
-#### Extend deadlines
+#### Extend/Rethink deadlines
+
+See: [https://youtu.be/goihWvyqRow?t=920](https://youtu.be/goihWvyqRow?t=920) (Lead Time and Cycle Time)
 
 #### Reduce scope
 
