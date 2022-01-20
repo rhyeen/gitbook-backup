@@ -7,7 +7,7 @@ description: >-
 
 # Iteration/Sprint
 
-Although [some may argue](https://rhyeen.gitbook.io/techops/v/time-management/#what-agile-development-solves-and-what-it-doesnt.) that there is a difference between an iteration and a sprint, know that they are both generally used in the industry as a term for a (usually) 1-2 week continually repeated timeframe in which a team scopes, locks in, then accomplishes tasks.  The iteration is punctuated with a planning meeting to start off the iteration and close out the previous iteration, and is sprinkled with very short check-in (Stand up) meetings (we'll [talk more about meetings](weekly-meetings.md) later).  We use a Kanban board ([more on that later](kanban-boards.md)) and other techniques to keep track of progress and prioritize tasks during an iteration.  Finally, we track longterm trends in the iteration to improve the process.
+Although [some may argue](https://rhyeen.gitbook.io/techops/v/time-management/#what-agile-development-solves-and-what-it-doesnt.) that there is a difference between an iteration and a sprint, know that they are both generally used in the industry as a term for a (usually) 1-2 week continually repeated timeframe in which a team scopes, locks in, then accomplishes tasks.  The iteration is punctuated with a planning meeting to start off the iteration and to close out the previous iteration, and is sprinkled with very short check-in (Stand up) meetings.  We use a task board to keep track of progress and prioritize tasks during an iteration.  Finally, we track longterm trends in the iteration to improve our efficiency.
 
 #### Project Management Software
 
